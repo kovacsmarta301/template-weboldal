@@ -16,10 +16,10 @@ Ezt a W3.CSS template-et választottam: Nature Portfolio Template
 
 ## Mit módosítottam?
 
--
--
--
--
+- Háttér
+- Szöveg
+- Képek
+- Betűszínek
 -
 
 ## Használt technológiák
